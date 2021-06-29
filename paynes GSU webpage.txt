@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>Payne</title>
+        <link rel="stylesheet" href="mycss.css">
+    </head>
+    <body>
+        
+        <h1>Welcome to Payne's Webpage</h1>
+        <hr>
+        <h2>My hobbies are:</h2>
+        <ul>
+            <li><a href="https://www.atlantatrails.com/hiking-trails/hiking-to-raven-cliff-falls/">Hiking</a></li>
+            <li><a href="https://cooking.nytimes.com">Cooking</a></li>
+            <li><a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat">Animals</a></li>
+            <li><a href="http://www.reading.com">Reading</a></li>
+        </ul>
+        <hr>
+        <p><blue_tag>Hiking</blue_tag> is one of my favorite hobbies. I try to go hiking at least once a week. Hiking is great excercise and helps get you outside for fresh air. I also see hiking as a type of meditation for me. When I go with friends it is a great way to catch up with them as well. <red_tag>Kennesaw Mountain</red_tag> is a great place for weekly trips as well since it isn't too far. North Georgia has many spots to go hiking so I enjoy traveling there as well. I love hiking to <yellow_tag>waterfalls</yellow_tag> so I highly suggest going to North Georgia. There are several trails that connect to rivers to experience waterfalls. Another spot in North Georgia I suggest is Raven Cliff Falls. It can be a bit of a long hike but the views are worth it! Raven Cliff Falls does have a waterfall at the end of the hike. It is also a very popular spot for camping. There are multiple spots along the way that you can camp next to the river.  
+        <hr>
+        <p><red_tag>Cooking</red_tag> is another hobby that I have recently started exploring. I like to eat clean so I'm looking to learn how to cook. I try to change up my style of cooking weekly. <blue_tag>Cooking classes</blue_tag> may be the next big step.. but youtube channels have been helping me with recipes for now. I also read articles on diffrent styles of cooking. I have slowly been creating a base of sauces and spices for different dishes. I have also starting baking and taking my chances on <yellow_tag>bread</yellow_tag> Hopefully in the next year I will be able to build on my cooking skills! My goal is to make at least four homemade meals a week. I do believe cooking with family and/or friends is always a great experience as well! It can be good for bonding with the people that you love. Cooking and food is a basis of so many cultures, that's how important it is within families and community.  </p>. 
+        <hr>
+        <p>I love <red_tag>animals!</red_tag> I currently have a cat that is only six months old. She is adorable and I am glad I adopoted her. I would like to get a dog in the next year as well. It is a struggle to get a harness on my <blue_tag>cat</blue_tag> to bring her hiking! As silly as that sounds. I also love <yellow_tag>dogs</yellow_tag> so I am excited to adopt! I have friends that have dogs so sometimes I am able to dog sit and take them on hikes. I also grew up with several animals living in my childhood home. I think this brought me to have good experinces with pets starting at a young age. I also love wild animals at a respectful distance. The Georgia Aquarium is a great place to see aquatic animals in a man-made ecosystem.  </p>
+        <hr>
+        <p><red_tag>Reading</red_tag> isn't too much of a hobby for me but something I do weekly. I do read a lot for school and certifications that I am currently persuing. When <yellow_tag>relaxing</yellow_tag> I like to watch movies or shows. I believe once I am out of college I will be reading more for enjoyment. You could include <blue_tag>social media</blue_tag> in my reading. I have recently started researching IT so most of my reading has been in that subject. I do enjoy some fiction books. When I was younger I would read fiction books then watch the movies. Reading a book always seem different from movies though. With books you can use your own imagination to "imagine" different aspects of the story. For example, many people complained about how Lord of the Rings is not exactly how the book pertrays it. This is true in some details, yet I think a big factor is your own personal imagination on the story.
+        <hr>
+        <table>
+            <tr>
+                <td><a href="https://www.atlantatrails.com/hiking-trails/hiking-to-raven-cliff-falls/"><img src="lake.jpg" width="300" height="300"></a>
+        </td>
+                <td><a href="https://cooking.nytimes.com"><img src="cooking.jpg" width="300" height="300"></a>
+        </td>
+            </tr>
+            <tr>
+                <td><a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat"><img src="cats.jpg" width="300" height="300"></a>
+        </td>
+                <td><a href="http://www.reading.com"><img src="reading.jpg" width="300" height="300"></a>
+        </td>
+            </tr>
+            
+        </table>
+        
+        
+    
+        
+    </body>
+    
+    
+</html>
