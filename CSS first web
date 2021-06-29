@@ -1,0 +1,23 @@
+body {
+    background-color: #F0F8FF;
+}
+h1 {
+    color: white;
+    font-size: 300%;
+}
+yellow_tag {
+    color: yellow;
+    font-size: 175%;
+}
+red_tag {
+    color: red;
+    font-size: 200%;
+}
+blue_tag {
+    color: blue;
+    font-size: 100%;
+}
+green_tag {
+    color: green;
+    font-size: 150%;
+}
